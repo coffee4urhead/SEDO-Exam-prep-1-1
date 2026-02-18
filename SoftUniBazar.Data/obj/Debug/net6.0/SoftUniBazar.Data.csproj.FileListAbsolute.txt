@@ -1,0 +1,15 @@
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.deps.json
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.runtimeconfig.json
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.dll
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.pdb
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.AssemblyReference.cache
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfoInputs.cache
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfo.cs
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.sourcelink.json
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.dll
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/refint/SoftUniBazar.Data.dll
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.pdb
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.genruntimeconfig.cache
+/home/demian/Documents/DevOps/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/ref/SoftUniBazar.Data.dll
