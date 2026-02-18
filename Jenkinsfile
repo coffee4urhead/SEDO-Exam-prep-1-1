@@ -1,3 +1,11 @@
+def runCmd(String cmd) {
+    if (isUnix()) {
+        sh cmd
+    } else {
+        bat cmd
+    }
+}
+
 pipeline {
     agent any
     stages {
@@ -5,39 +13,33 @@ pipeline {
             when {
                 anyOf {
                     branch 'main'
-                    branch 'feature'
+                    branch 'feature/**'
                 }
             }
             steps {
-                cbat 'dotnet restore'
+                runCmd('dotnet restore')
             }
         }
         stage('Build the app') {
-                        when {
+            when {
                 anyOf {
                     branch 'main'
-                    branch 'feature'
+                    branch 'feature/**'
                 }
             }
             steps {
-                cbat 'dotnet restore'
-            }
-            steps {
-                bat 'dotnet build --norestore'
+                runCmd('dotnet build --no-restore')
             }
         }
         stage('Run Tests') {
-                        when {
+            when {
                 anyOf {
                     branch 'main'
-                    branch 'feature'
+                    branch 'feature/**'
                 }
             }
             steps {
-                cbat 'dotnet restore'
-            }
-            steps {
-                bat 'dotnet test'
+                runCmd('dotnet test --no-build')
             }
         }
     }
